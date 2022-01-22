@@ -5,7 +5,7 @@
 #### My Name Is Aleksey Klimenko.
 
 
->I am developing applications in React and sites in native HTML, JS and CSS.
+I am developing applications in React and sites in native HTML, JS and CSS.
 I write the backend myself in Node.js.
 I like making animation for websites.
 I am a fourth year student at The Bonch-Bruevich Saint Petersburg State University of Telecommunications. Bachelor degree - IT specialist.
