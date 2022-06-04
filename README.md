@@ -14,7 +14,7 @@ I am a fourth year student at The Bonch-Bruevich Saint Petersburg State Universi
 >https://github.com/proggarapsody/starwars-wiki  
 <b>Deploy https://starwars-wikia.vercel.app</b>  
 
-### Virtual keyboard on native `CSS, HTML, JS` with `webpack`, styling like Logitech
+### Virtual keyboard on native `CSS, HTML, JS` with `webpack`
 >https://github.com/proggarapsody/virtual-keyboard/tree/dev  
 <b>Deploy https://proggarapsody.github.io/virtual-keyboard/</b>
 ### CRUD Microservise on `ASP.NET` and `Blazor webassembly`
