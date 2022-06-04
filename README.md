@@ -25,7 +25,7 @@ I am a fourth year student at The Bonch-Bruevich Saint Petersburg State Universi
 <b>Deploy https://proggarapsody-blog.netlify.app/</b>
 
 ### Responsive site on native `CSS, HTML, JS` with `webpack`
->https://github.com/proggarapsody/shelter
+>https://github.com/proggarapsody/shelter  
 <b>https://proggarapsody.github.io/shelter/</b>
 # 💻Tech stack
 
