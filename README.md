@@ -24,6 +24,9 @@ I am a fourth year student at The Bonch-Bruevich Saint Petersburg State Universi
 >https://github.com/proggarapsody/blog-testproject  
 <b>Deploy https://proggarapsody-blog.netlify.app/</b>
 
+### Responsive site on native `CSS, HTML, JS` with `webpack`
+>https://github.com/proggarapsody/shelter
+<b>https://proggarapsody.github.io/shelter/</b>
 # 💻Tech stack
 
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-F4E11E?style=for-the-badge&logo=JavaScript&logoColor=000000) ![React](https://img.shields.io/badge/-React-47C5FB?style=for-the-badge&logo=react&logoColor=ffffff) ![Redux](https://img.shields.io/badge/-Redux-7248B6?style=for-the-badge&logo=redux&logoColor=ffffff) ![MobX](https://img.shields.io/badge/-MobX-E16013?style=for-the-badge&logo=MobX&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/-Node.js-6FA660?style=for-the-badge&logo=node.js&logoColor=000000) ![Express](https://img.shields.io/badge/-Express.js-313D48?style=for-the-badge&logo=Express&logoColor=ffffff) > ![PostgreSql](https://img.shields.io/badge/-PostgreSql-6296CC?style=for-the-badge&logo=postgresql&logoColor=ffffff)
