@@ -9,6 +9,13 @@ I write the backend myself in Node.js.
 I like making animation for websites.  
 I am a fourth year student at The Bonch-Bruevich Saint Petersburg State University of Telecommunications. Bachelor degree - IT specialist.**
 
+## My Projects
+1. Star wars wiki app on `NextJS` https://github.com/proggarapsody/starwars-wiki | <b>Deploy https://starwars-wikia.vercel.app</b>
+2. Virtual keyboard on native `CSS, HTML, JS` with `webpack`, styling like Logitech https://github.com/proggarapsody/virtual-keyboard/tree/dev | <b>Deploy 
+https://proggarapsody.github.io/virtual-keyboard/</b>
+3. CRUD Microservise on `ASP.NET` and `Blazor webassembly` https://github.com/proggarapsody/intell-prod-lifecycle-microservice
+4. Test project on `React` https://github.com/proggarapsody/blog-testproject | <b>Deploy https://proggarapsody-blog.netlify.app/</b>
+
 # 💻Tech stack
 
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-F4E11E?style=for-the-badge&logo=JavaScript&logoColor=000000) ![React](https://img.shields.io/badge/-React-47C5FB?style=for-the-badge&logo=react&logoColor=ffffff) ![Redux](https://img.shields.io/badge/-Redux-7248B6?style=for-the-badge&logo=redux&logoColor=ffffff) ![MobX](https://img.shields.io/badge/-MobX-E16013?style=for-the-badge&logo=MobX&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/-Node.js-6FA660?style=for-the-badge&logo=node.js&logoColor=000000) ![Express](https://img.shields.io/badge/-Express.js-313D48?style=for-the-badge&logo=Express&logoColor=ffffff) > ![PostgreSql](https://img.shields.io/badge/-PostgreSql-6296CC?style=for-the-badge&logo=postgresql&logoColor=ffffff)
