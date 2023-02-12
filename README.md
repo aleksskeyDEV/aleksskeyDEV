@@ -6,7 +6,7 @@
 
 **Firsty, I'm web developer.**   
 
-### What i relly ❤️
+### What i really ❤️
 > 1. NodeJS
 > 2. .net maui 
 > 3. TypeScript magic 🪄
@@ -16,26 +16,27 @@
 
 ## My Projects
 ### Star wars wiki app on `NextJS`
->https://github.com/proggarapsody/starwars-wiki  
-<b>Deploy https://starwars-wikia.vercel.app</b>  
+>![Repo](https://github.com/proggarapsody/starwars-wiki)   
+<b>![Deploy](https://starwars-wikia.vercel.app)</b>  
 
-### Virtual keyboard on native `CSS, HTML, JS` with `webpack`
->https://github.com/proggarapsody/virtual-keyboard/tree/dev  
-<b>Deploy https://proggarapsody.github.io/virtual-keyboard/</b>
+### Virtual keyboard on native `CSS, HTML, JS` with `webpack set up`
+>![Repo](https://github.com/proggarapsody/virtual-keyboard/tree/dev)   
+<b>![Deploy](https://proggarapsody.github.io/virtual-keyboard/)</b>
+
 ### CRUD Microservise on `ASP.NET` and `Blazor webassembly`
->https://github.com/proggarapsody/intell-prod-lifecycle-microservice
+>![Repo](https://github.com/proggarapsody/intell-prod-lifecycle-microservice)
 
 ### Test project on `React`  
->https://github.com/proggarapsody/blog-testproject  
-<b>Deploy https://proggarapsody-blog.netlify.app/</b>
+>![Repo](https://github.com/proggarapsody/blog-testproject)  
+<b>![Deploy](https://proggarapsody-blog.netlify.app/)</b>
 
 ### Responsive site on native `CSS, HTML, JS` with `webpack`
->https://github.com/proggarapsody/shelter  
-<b>Deploy https://proggarapsody.github.io/shelter/</b>
+>![Repo](https://github.com/proggarapsody/shelter)  
+<b>![Deploy](https://proggarapsody.github.io/shelter/)</b>
 
 ### Kanban Project on `React` and `MobX State Tree with`
->https://github.com/proggarapsody/kanban-project   
-<b>Deploy https://rapsody-boards.herokuapp.com/</b>
+>![Repo](https://github.com/proggarapsody/kanban-project)   
+<b>![Deploy](https://rapsody-boards.herokuapp.com/)</b>
 
 # 💻Tech stack
 
