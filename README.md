@@ -17,26 +17,26 @@
 ## My Projects
 ### Star wars wiki app on `NextJS`
 >![Repo](https://github.com/proggarapsody/starwars-wiki)   
-<b>![Deploy](https://starwars-wikia.vercel.app)</b>  
+![Deploy](https://starwars-wikia.vercel.app)
 
 ### Virtual keyboard on native `CSS, HTML, JS` with `webpack set up`
 >![Repo](https://github.com/proggarapsody/virtual-keyboard/tree/dev)   
-<b>![Deploy](https://proggarapsody.github.io/virtual-keyboard/)</b>
+![Deploy](https://proggarapsody.github.io/virtual-keyboard/)
 
 ### CRUD Microservise on `ASP.NET` and `Blazor webassembly`
 >![Repo](https://github.com/proggarapsody/intell-prod-lifecycle-microservice)
 
 ### Test project on `React`  
 >![Repo](https://github.com/proggarapsody/blog-testproject)  
-<b>![Deploy](https://proggarapsody-blog.netlify.app/)</b>
+![Deploy](https://proggarapsody-blog.netlify.app/)
 
 ### Responsive site on native `CSS, HTML, JS` with `webpack`
 >![Repo](https://github.com/proggarapsody/shelter)  
-<b>![Deploy](https://proggarapsody.github.io/shelter/)</b>
+![Deploy](https://proggarapsody.github.io/shelter/)
 
 ### Kanban Project on `React` and `MobX State Tree with`
 >![Repo](https://github.com/proggarapsody/kanban-project)   
-<b>![Deploy](https://rapsody-boards.herokuapp.com/)</b>
+![Deploy](https://rapsody-boards.herokuapp.com/)
 
 # 💻Tech stack
 
