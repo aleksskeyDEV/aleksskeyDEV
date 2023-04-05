@@ -11,8 +11,6 @@
 > 2. .net maui 
 > 3. TypeScript magic 🪄
 > 4. React and NextJS
-  
-**I am a fourth year student at The Bonch-Bruevich Saint Petersburg State University of Telecommunications. Bachelor degree - IT specialist.**
 
 ## My Projects
 ### Star wars wiki app on `NextJS`
