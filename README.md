@@ -2,7 +2,7 @@
 
 # 🐉About me
 
-## My Name Is Aleksey Klimenko   [![LinkedIn](https://img.shields.io/badge/-Linkedin-6296CC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/proggarapsody)
+## My Name Is Aleks   [![LinkedIn](https://img.shields.io/badge/-Linkedin-6296CC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/proggarapsody)
 
 **Firsty, I'm web developer.**   
 
