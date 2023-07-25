@@ -4,13 +4,7 @@
 
 ## My Name Is Aleks   [![LinkedIn](https://img.shields.io/badge/-Linkedin-6296CC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/proggarapsody)
 
-**Firsty, I'm web developer.**   
-
-### What i really ❤️
-> 1. NodeJS
-> 2. .net maui 
-> 3. TypeScript magic 🪄
-> 4. React and NextJS
+**Web developer**   
 
 ## My Projects
 ### Star wars wiki app on `NextJS`
