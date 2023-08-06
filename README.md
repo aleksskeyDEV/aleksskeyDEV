@@ -2,35 +2,34 @@
 
 # 🐉About me
 
-## My Name Is Aleks   [![LinkedIn](https://img.shields.io/badge/-Linkedin-6296CC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/proggarapsody)
 
-**Web developer**   
+👋 My Name Is Aleks     
+I'm a **Frontend Sofware Engineer.**      
+2️⃣+ years of **commercial** experience in Sofware development.    
+4️⃣+ years of experience in programming.
+
+[My LinkedIn profile 🔗](https://www.linkedin.com/in/proggarapsody)
 
 ## My Projects
-### Star wars wiki app on `NextJS`
->![Repo](https://github.com/proggarapsody/starwars-wiki) | 
+### 💫 Star wars wiki app on `NextJS`
+> [Repo](https://github.com/proggarapsody/starwars-wiki) | 
 > https://starwars-wikia.vercel.app
 
 
-### Virtual keyboard on native `CSS, HTML, JS` with `webpack set up`
->![Repo](https://github.com/proggarapsody/virtual-keyboard/tree/dev) | 
+### ⌨️ Virtual keyboard on native `CSS, HTML, JS` with `webpack set up`
+> [Repo](https://github.com/proggarapsody/virtual-keyboard/tree/dev) | 
 > https://proggarapsody.github.io/virtual-keyboard
 
 
-### CRUD Microservise on `ASP.NET` and `Blazor webassembly`
->![Repo](https://github.com/proggarapsody/intell-prod-lifecycle-microservice) 
+### 💻 CRUD Microservise on `ASP.NET` and `Blazor webassembly`
+> [Repo](https://github.com/proggarapsody/intell-prod-lifecycle-microservice) 
 
-### Test project on `React`  
->![Repo](https://github.com/proggarapsody/blog-testproject) | 
-> https://proggarapsody-blog.netlify.app
-
-
-### Responsive site on native `CSS, HTML, JS` with `webpack`
->![Repo](https://github.com/proggarapsody/shelter) | 
+### 🐶 Responsive site on native `CSS, HTML, JS` with `webpack`
+> [Repo](https://github.com/proggarapsody/shelter) | 
 > https://proggarapsody.github.io/shelter
 
-### Kanban Project on `React` and `MobX State Tree with`
->![Repo](https://github.com/proggarapsody/kanban-project) | 
+### 📅 Kanban Project on `React` and `MobX State Tree with`
+> [Repo](https://github.com/proggarapsody/kanban-project) | 
 > https://rapsody-boards.herokuapp.com
 
 # 💻Tech stack
