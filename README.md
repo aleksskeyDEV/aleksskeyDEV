@@ -1,4 +1,4 @@
-[![Header](https://github.com/aleksskeyDEV/aleksskeyDEV/blob/main/assets/img/header.png)](https://www.linkedin.com/in/proggarapsody)
+[![Header](https://github.com/aleksskeyDEV/aleksskeyDEV/blob/main/assets/img/header-center.png)](https://www.linkedin.com/in/proggarapsody)
 
 # 🐉About me
 
