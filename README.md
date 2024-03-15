@@ -28,10 +28,6 @@ I'm a **Frontend Sofware Engineer.**
 > [Repo](https://github.com/proggarapsody/shelter) | 
 > https://proggarapsody.github.io/shelter
 
-### 📅 Kanban Project on `React` and `MobX State Tree with`
-> [Repo](https://github.com/proggarapsody/kanban-project) | 
-> https://rapsody-boards.herokuapp.com
-
 # 💻Tech stack
 
 > ![TypeScript](https://img.shields.io/badge/-TypeScript-F4E11E?style=for-the-badge&logo=TypeScript&logoColor=000000) ![React](https://img.shields.io/badge/-React-47C5FB?style=for-the-badge&logo=react&logoColor=ffffff) ![Redux](https://img.shields.io/badge/-Redux-7248B6?style=for-the-badge&logo=redux&logoColor=ffffff) ![MobX](https://img.shields.io/badge/-MobX-E16013?style=for-the-badge&logo=MobX&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/-Node.js-6FA660?style=for-the-badge&logo=node.js&logoColor=000000) ![Express](https://img.shields.io/badge/-Express.js-313D48?style=for-the-badge&logo=Express&logoColor=ffffff) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-6296CC?style=for-the-badge&logo=postgresql&logoColor=ffffff)
