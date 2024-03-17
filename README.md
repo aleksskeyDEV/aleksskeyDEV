@@ -5,8 +5,6 @@
 
 👋 My Name Is Aleks     
 I'm a **Frontend Sofware Engineer.**      
-`2+` years of **commercial** experience in Sofware development.    
-`5+` years of experience in programming.
 
 [My LinkedIn profile 🔗](https://www.linkedin.com/in/proggarapsody)
 
