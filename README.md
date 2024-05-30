@@ -3,7 +3,7 @@
 # 🐉About me
 
 
-👋 My Name Is Aleks     
+👋 My Name Is Alex     
 I'm a **Frontend Sofware Engineer.**      
 
 [My LinkedIn profile 🔗](https://www.linkedin.com/in/proggarapsody)
